@@ -4,7 +4,7 @@ Tiny NodeJS Static Web server
 # 安装
 
 ```
-npm i -g anydoor
+npm i -g anydoor-jarvis
 ```
 
 # 使用方法
